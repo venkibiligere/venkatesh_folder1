@@ -6,3 +6,4 @@ echo "product of numbers is $product"
 
 
 
+
