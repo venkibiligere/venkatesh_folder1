@@ -1,7 +1,7 @@
 #!/bin/bash
 n=0
 
-for [ $n -le  $a ]
+for [ $n <=  $a ]
 do
   echo $n
   n=(($n+1))
