@@ -1,8 +1,8 @@
 #!/bin/bash
 n=0
 
-for [ $n <=  $a ]
+while [ $n -le  $a ]
 do
   echo $n
-  n=(($n+1))
+  n=$((n+1))
 done
